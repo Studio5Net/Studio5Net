@@ -1,4 +1,4 @@
-![Banner](https://github.com/FabianTerhorst/fabianterhorst/blob/main/Github-Profile-Cover.png)
+
 
 <!-- welcome message -->  
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
@@ -13,7 +13,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vesturo&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Studio5Net&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesturo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
