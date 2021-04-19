@@ -7,6 +7,7 @@
 
 <!-- GitHub stats -->  
 <b>⚡ Our Dev Statistics</b>
+<b>Vesturo:</b>
 
 <p>  
 <!-- GitHub Stats -->  
@@ -14,6 +15,17 @@
 
 <!-- Most Used Languages -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesturo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
+
+
+<b>Dreandor:</b>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreandor&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreandor&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
